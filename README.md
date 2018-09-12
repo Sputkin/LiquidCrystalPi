@@ -1,7 +1,7 @@
 ## A initial port of the Arduino LiquidCrystal library to Raspberry Pi.
 
 
-![Alt Text]()
+![Alt Text](https://github.com/Sputkin/LiquidCrystalPi/blob/master/gif/display.gif)
 
 
 #### Necessary dependencies
