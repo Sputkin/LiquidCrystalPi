@@ -10,7 +10,7 @@
 
 
 
-##### For configuring connections see wiringpi Pin Numbering . For a complete documentation on the library, see the official documentation https://www.arduino.cc/en/Reference/LiquidCrystal .
+For configuring connections see wiringpi Pin Numbering . For a complete documentation on the library, see the official documentation https://www.arduino.cc/en/Reference/LiquidCrystal .
 
 
 
